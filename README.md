@@ -32,7 +32,7 @@
   <a>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishangala16&theme=black-ice&hide_border=true" width="800" margin-bottom="20">
   </a><br/>
-  <a href="https://github.com/ishangala16/github-readme-stats" ">
+  <a href="https://github.com/ishangala16/github-readme-stats" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishangala16&theme=dark&count_private=true&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc" />
   </a>
   <a href="https://github.com/ishangala16/github-readme-stats">
