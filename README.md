@@ -33,7 +33,7 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishangala16&theme=black-ice&hide_border=true" width="800" margin-bottom="20">
   </a><br/>
   <a href="https://github.com/ishangala16/github-readme-stats" style="margin-top:100px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishangala16&theme=dark&count_private=true&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishangala16&theme=dark&count_private=true&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc&line_height=40" />
   </a>
   <a href="https://github.com/ishangala16/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishangala16&count_private=true&theme=dark&show_icons=true&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc&card_width=3&line_height=40" />
