@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Ishan Gala 👋</h1> 
 
-<p align="left">I'm a Computer Science undergrad who takes interest in learning new techonologies. I have an interest in ML, AI, Android Development. I like to develop scalable applications with the technologies that I have learnt. Along with Computer Programming, Digital Marketing and Management are two sectors that fascinate me. </p> 
+<p align="left">I'm a Computer Science undergrad who takes interest in learning new techonologies. I am passionate about Machine Learning, DevOps, Android Development & I enjoy learning new things. I like to develop scalable applications with the technologies that I have learnt. Along with Coding, Digital Marketing and Public Speaking are two things that fascinate me. </p> 
 
 - 👨‍💻  All of my projects are available [here](https://github.com/ishangala16?tab=repositories)
 
