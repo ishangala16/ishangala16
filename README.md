@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Ishan Gala 👋</h1> 
 
-<p align="left">I'm a Computer Science undergrad who takes interest in learning new techonologies. I am passionate about Machine Learning, DevOps, Android Development & I enjoy learning new things. I like to develop scalable applications with the technologies that I have learnt. Along with Coding, Digital Marketing and Public Speaking are two things that fascinate me. </p> 
+<p align="left">I'm a Computer Science undergrad who takes interest in learning new techonologies. I am passionate about Machine Learning, DevOps, Android Development & I enjoy learning new things. Along with Coding, Digital Marketing is a thing that fascinate me. </p> 
 
 - 👨‍💻  All of my projects are available [here](https://github.com/ishangala16?tab=repositories)
 
@@ -28,6 +28,7 @@
 <br />
 <br />
 
+<!--
 <div align="center">
   <a>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishangala16&theme=black-ice&hide_border=true" width="800" margin-bottom="20">
@@ -40,4 +41,4 @@
   </a>
 </div>
 
-
+-->
